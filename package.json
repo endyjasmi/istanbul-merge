@@ -1,6 +1,29 @@
 {
   "name": "@endyjasmi/istanbul-merge",
+  "description": "CLI for merging multiple istabul coverage report into one.",
   "version": "0.0.0",
+  "license": "MIT",
+  "keywords": [
+    "coverage",
+    "istanbul",
+    "nyc"
+  ],
+  "author": {
+    "email": "endyjasmi@gmail.com",
+    "name": "Endy Jasmi"
+  },
+  "homepage": "https://github.com/endyjasmi/istanbul-merge#readme",
+  "bugs": {
+    "url": "https://github.com/endyjasmi/istanbul-merge/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/endyjasmi/istanbul-merge.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://ko-fi.com/endyjasmi"
+  },
   "type": "commonjs",
   "bin": "./source/index.js",
   "scripts": {
